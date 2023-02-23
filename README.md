@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darkwolfbiggz
+- 👋 Hi, I’m @darkwolfbiggz (jonathan leeka)
 - 👀 I’m interested in becoming a
  Frontend developer
 - 🌱 I’m currently taking the meta frontend professional developer  course
